@@ -12,6 +12,10 @@ The bot automatically keeps the specified advertisement at the bottom of the cha
 
 The bot has a notification system - if a user (who is not an administrator) sends /start to the bot, all administrators will receive a notification with the name, username and user ID.
 
+The bot remembers the entire advertising post (pyrogram) or a post with 1 image (telebot) saving the data to the ads.json file
+
+The bot remembers its advertising posts, i.e. after restarting the bot, it will still know what its last advertising posts were (last.dict)
+
 ---
 ### How to use?
 1. Fill fields: `API_ID`, `API_HASH` (for pyrogram variant), `TOKEN`, `CHAT_ID`, `ADMINS`
