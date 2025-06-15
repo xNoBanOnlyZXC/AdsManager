@@ -1,5 +1,6 @@
 <div align="center">
     <h1>Ads Manager</h1>
+    <img src="https://github.com/user-attachments/assets/3abe87c8-db50-4155-aaf5-ddcdd9b51754"  width="200" height="200"><br>
     Ad-managing tool for chat.
     <p>Made by <bold>~$ sudo++</bold></p>
     <img alt="code size" src="https://img.shields.io/github/languages/code-size/xnobanonlyzxc/adsmanager?style=for-the-badge">
